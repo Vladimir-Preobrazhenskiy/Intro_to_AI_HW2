@@ -6,6 +6,9 @@ as Markdown files, prompt them, permission them, verify their output, and combin
 them into teams. Python is the working domain; the language itself is taught in
 *Development Essentials*. It is a teaching project, not a software repository.
 
+The task for AI to automate was the creation of backups of the folder /project - so they did
+Unfortunately, chats with .chat were working quite poorly – failing with error and not providing / commands even after restart of opencode and Jupyterhub session, so for commands I used Opencode in terminal – it worked perfectly, however I could not save it as .chat
+
 ## Project layout
 
 - `scripts/` — draft modules agents produce for the user to run.
